@@ -1,0 +1,5 @@
+body{margin:1cm 0 1cm 2cm;background-color:#222;color:#da9;line-height:1.4;letter-spacing:0.02em;max-width:16cm;font:18px serif}
+a{color:#69c;text-decoration:none}
+td{padding:0.1cm 0.4cm}
+hr{border:0;height:2px;background-color:#000}
+@media(max-width:19cm){body{margin:1cm 0 1cm 0}}
