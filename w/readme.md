@@ -1,5 +1,6 @@
 |||||
 ---|---|--:|--:
+[She's built a house of glass](She's built a house of glass)|A sentience|190830|0
 [Inktober20181031](Inktober20181031)|[Inktober](https://instagram.com/p/Bpn5JFYnJeD)|181031|7
 [Entropy](Entropy)|Lyrics|180331|3
 [A Knight's Left Sword](A Knight's Left Sword)|A sinister tale|180210|9
