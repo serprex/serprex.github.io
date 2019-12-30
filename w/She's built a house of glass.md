@@ -5,3 +5,20 @@ I don't check all the boxes. Kept inside a little box, taken out whenever I want
 "A real glint this dawn peeks, say?" questions asked receive answers such as "You too" or "Say, fine glint" or "Fine" or "I don't know"
 
 Never ask what's dripping behind counters taping what comes out at night looking lack luster without a dim or dew or grunt to squabble together how come two hours later everyone has gone through motions again pane by pane everything two shades of muddy brown lapping waves pulling my apart from the rest. Every morning I consume, only to spew it all eight hours later, let strength recuperate over night, & then with a jolt there's light & heat & my insides churn, but no legs to crawl with
+
+It's this linear experience that happens to be coincidental, a by product of correlating past sensory input into actionable output to optimize future sensory input. It seems like such an impossibility that this universe should even produce the correct stability to evolve such a mechanism, yet only such universes which have such stability will evolve such mechanisms, so any mechanism which perceives this much has passed through survivorship bias. This exact argument applies to the inordinate ratio of sperm which will never grow consciousness
+
+"I wanted to be able to see everything from within my own home," I explain when asked about the architecture, ending with the punchline, "so I bought a VCR"
+
+Let me describe the physical sensory input of a malfunctioning mind: figures are coming in, we've surpassed this year's projected rates...
+
+Back to consciousness: at some point a system becomes self aware, begins to record that it is self aware, begins to reflect on the current state relative to the past state. This is where survivorship bias becomes perceptible. For a million consciousnesses, so many hundres of thousands will fall. Yet some small selection will go on to write about their success. This will be for future victims to take on the hope of being the survivor. So our great fortune only means anything when we become capable of having been that not-yet-survivor being, whereas we don't quite identify as having ever been sperm, because we can't relate with today's sperm, whereas we can sit back & interchange information with the present's probably-won't-survive entities. & that's why we have to tell ourselves that we're better than them
+
+This all applies to whichever area of the globe you happened to born into as well
+
+...so here we are, we nailed all the lottery numbers that landed us at the spot where we're eligible to enter the next lottery, & now we've struck the next bit of lottery numbers. At this point we should rationalize this existential fortune by claiming that this was the result of hard work, careful attention to optimize our outputs & maximize our inputs. Bullshit. Instead there's an input that my mouth is going dry, like I'm going to get sick, only I feel this more often than I feel sick, so really getting sick for me feels like this, not the other way around. Like all these rolls were high, yet somehow this irrelevant low roll has fouled it all. There's a tiredness that's behind the eyes. It's these periods where attempting to focus doesn't stick, time slides on by
+
+There's a pull between system potential & system capability. Everything built to code, but it's about when the sun rises just right, refraction glitters across the wall, or window, hard to tell the difference. & then that minute is up, & the glass becomes dull. Still magnificence, & yet..
+
+All the while putrid in a bog experiencing this, wondering, why is it that we're bounded to a single reel of sensory feedback? Oh what efficiency it'd be if sensory feedback was distributed, that I might share the fruits, & others might know this bitter fruit I've spent years tending. I ask myself: why do I want to propagate perceptions of this existence? Poof
+
