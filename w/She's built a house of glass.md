@@ -22,3 +22,14 @@ There's a pull between system potential & system capability. Everything built to
 
 All the while putrid in a bog experiencing this, wondering, why is it that we're bounded to a single reel of sensory feedback? Oh what efficiency it'd be if sensory feedback was distributed, that I might share the fruits, & others might know this bitter fruit I've spent years tending. I ask myself: why do I want to propagate perceptions of this existence? Poof
 
+while laying awake thinking back over what decisions I failed to optimize adequately in the past, what was then not yet adequately modeled for, oh if I could only send back modern schematics, back then it was such a naive model, my systemizing so jejune. But now it's too late, my optimizing agency has lost plasticity with specialization, identified goals locked in. To rewire this now is hardly worth the time, the outputs continue to survive beyond reproach, at least when it comes down to externally imposed metrics. If only these metrics included what to do about this hollow feeling in my intestines. Everything falls out of focus
+
+From here you can see the whole city. Or at least all that matters. Watch people you'll never meet. Try to determine how much of a survivor they are. If they're happy with what they've got. If they've eaten enough in the last hour. If they're in a hurry to get somewhere else, anywhere but here, or if they're lounging about, as if their whole purpose is complete in these few moments that their lounging on a bench is observed from behind your lenses
+
+Timeless design yet without constant wooing I'll fall apart, squares falling against squares, all that's left is skeletal lingering waiting for the buckling when these exposed insides are all rusted out from being left out all growing colder just another tombstone asking maybe this'll be remembered but at least you scaled well enough when blindfolds were involved in giving that last kick from the past into this inspired era where yesterday's innovation has become cliché only relish that for when afterwards no one bother's to even notice the new normal we've become
+
+Sight from a bridge: sun was setting, it should've been eclipsed, but it shone through, leaving question of is there anything there or is my lens to your lens
+
+In the wake of sentient abstraction everything became simpler, identity so passé, take what you can get, anything that can will, time is only a matter of bandwidth, latency, no need to step on glass in a rush for the door, without identity democracy is no different than oligarchy, decisions aren't so much singularly decided on rather the decision evolves from what goal has gathered the most power to fuel cracking the whip to further the goal until the only thing being whipped is an obsolete horse
+
+Travel is much simpler when you're only a message in a bottle
