@@ -1,0 +1,13 @@
+Encoding of é or &eaccute; is c369
+Encoding of newlines is 0a
+File ends with a newline
+Punctuation is followed by spaces
+There is no double spacing, ie no 3232 sequences
+Paragraphs are separated by 2 newlines, & are not terminated with a fullstop
+Lists have their items separated by 1 newline
+There are 366 spaces, 50 newlines, 15 periods, 12 colons
+There are a total of 2307 bytes
+
+Set of bytes appearing in file: 0a2025262c2e3031323334353a414243444547494c4d4e4f5052535456576162636465666768696a6b6c6d6e6f707172737475767778797aa9c3
+sha256sum: 30e930c72d4bf883de30ec9bc6cb7feb01998dadb24be88c7c1d8e90b4dae4cd 
+sha512sum: 15e1197b381e0b193a06ff6531de393e9a6307ef8016fe77e90e69bc2577b902b17d43c85a05cf3255862de4febd7849c4b06a510cc606ef86ddc792aeb67c25
