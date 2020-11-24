@@ -14,7 +14,5 @@
 <a href="https://instagram.com/junkmute">Instagram</a><br>
 <a href="will.txt">Will</a><br>
 <script async>
-if (typeof fetch!=='undefined')fetch("https://api.github.com/users/serprex").then(function(res){return res.json()}).then(function(res){
-var img=document.createElement('img');img.src=res.avatar_url;document.body.appendChild(img);
-});
+fetch("https://api.github.com/users/serprex").then(res=>res.json()).then(res=>document.body.style.background=`#222 url(${res.avatar_url}) right top no-repeat`);
 </script>
