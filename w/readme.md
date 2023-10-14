@@ -35,7 +35,7 @@
 [I was going to write about Nuitblanche but then I found out that airplanes can fly](I was going to write about Nuitblanche but then I found out that airplanes can fly)|An observation|111010|2
 [Nuitblanche Walker](Nuitblanche Walker)|Walker|111001|6
 [Yours truly](Yours truly)|A dear|110930|3
-**[Water me... one more time?](Water me... one more time%3f)**|A flower|110929|2
+**[Water me... one more time?](Water me one more time)**|A flower|110929|2
 [Soliloquy for two](Soliloquy for two)|A one act play|110928|4
 [Exquisite](Exquisite)|A doodle|110927|2
 [Deadman Switch](Deadman Switch)|A breaker|110926|6
