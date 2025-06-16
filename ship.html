@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="css.css">
+<input class="ui" value="TTS" data-section="gSettings" data-key="A11yTTS" data-value="1" />
+<input class="ui" value="Disable Idle Camera Recentering" data-section="gSettings" data-key="A11yDisableIdleCam" data-value="1" />
+<input class="ui" value="Audio Cues" data-section="gSettings" data-key="A11yAudioInteraction" data-value="1" />
+<input class="ui" value="No Dampe Fire" data-key="DampeDropRate" data-value="0" />
+<input class="ui" value="Normal Dampe Fire" data-key="DampeDropRate" data-value="1" />
+<input class="ui" value="Slow Switch Timer" data-section="gEnhancements" data-key="SwitchTimeMultiplier" data-value="0" />
+<input class="ui" value="Normal Switch Timer" data-section="gEnhancements" data-key="SwitchTimeMultiplier" data-value="5" />
+<input class="ui" value="Spawn With Full Health" data-key="FullHealthSpawn" data-value="1" />
+<input class="ui" value="All Dogs Are Richard" data-key="AllDogsRichard" data-value="1" />
+<input class="ui" value="Always Win Goron Pot" data-key="GoronPot" data-value="1" />
+<input class="ui" value="Always Win Dampe Digging Game" data-key="DampeWin" data-value="1" />
+<input class="ui" value="Disable Crit Wiggle" data-key="DisableCritWiggle" data-value="1" />
+<input class="ui" value="Shooting Gallery Not Randomized as Adult" data-key="ConstantAdultGallery" data-value="1" />
+<input class="ui" value="Disable Leevers" data-key="LeeverSpawnRate" data-value="3600" />
+<input class="ui" value="Skip Child Stealth" data-key="TimeSavers.SkipChildStealth" data-value="3600" />
+<input class="ui" value="Boot to File Select" data-section="gSettings" data-key="BootSequence" data-value="2" />
+<div>
+<input id="upload" type="file" value="Upload" />&emsp;
+<input id="download" type="button" value="Download" />
+</div>
+<textarea id="config"></textarea>
+<script>
+	const upload = document.getElementById('upload'),
+		download = document.getElementById('download'),
+		config = document.getElementById('config'),
+		downloadA = document.createElement('a');
+	let configJson = null;
+	upload.addEventListener("change", function(e) {
+		const reader = new FileReader();
+		reader.onload = function(e) {
+			configJson = JSON.parse(e.target.result);
+			config.value = e.target.result;
+		}
+		reader.onerror = function(e) {
+			// TODO
+		}
+		reader.readAsText(this.files[0]);
+	});
+	download.addEventListener("click", function(e) {
+		downloadA.href = "data:x-application/text,"+escape(config.value);
+		downloadA.setAttribute("download", "shipofharkinian.json");
+		downloadA.click();
+	});
+	for (const ui of document.getElementsByClassName("ui")) {
+		ui.addEventListener("click", function(e) {
+			if (!configJson) return;
+			const section = this.dataset.section || "gEnhancements";
+			if (this.dataset.key.includes('.')) {
+				const [subsection, key] = this.dataset.key.split('.');
+				configJson.CVars[section][subsection][key] = JSON.parse(this.dataset.value);
+			} else {
+				configJson.CVars[section][this.dataset.key] = JSON.parse(this.dataset.value);
+			}
+			config.value = JSON.stringify(configJson, null, 4);
+		});
+	}
+</script>
